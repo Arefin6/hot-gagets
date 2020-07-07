@@ -1,3 +1,17 @@
 .nav-link{
     font-family: cursive;
 }
+.container{
+    margin-bottom: 100px;
+}
+/* carosel */
+#carosel{
+    background-color: rgb(171, 235, 231);
+}
+.btn-buy{
+    background-color: rgb(10, 1, 1);
+    color:#fff;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 10px;
+}
