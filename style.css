@@ -14,4 +14,43 @@
     padding: 9px 25px;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
 }
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightslategray;
+    border-radius: 10px;
+    padding:40px 30px;
+}
+.shade img{
+     box-shadow: 5px 5px 10px lightgrey; 
+     padding:40px 60px;
+     margin:20px;
+     border-bottom-right-radius:30px ;
+}
+.main{
+    position: relative;
+    height: 70px;
+    
+}
+.cat{
+    position: absolute;
+    left:40%;
+    bottom:3px;
+    top:-36px;
+    border-bottom: 12px solid orange;
+    border-radius: 5%; 
+}
+
+.see,
+.see:hover{
+   text-decoration: none;
+   color:orange;
+}
+#footer p{
+    text-align: center;
+    background-color: lightskyblue;
+    color:#fff;
+    margin: 0;
+}
+
